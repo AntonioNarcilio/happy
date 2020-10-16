@@ -66,7 +66,7 @@ export default {
 			about,
 			instructions,
 			opening_hours,
-			open_on_weekends,
+			open_on_weekends: open_on_weekends === 'true',
 			images
 		};
 
@@ -82,8 +82,10 @@ export default {
 				Yup.object().shape({
 					path: Yup.string().required()
 				})
-			)
+			).required()
 		});
+
+
 
 		// Fazendo a validação dos dados
 		await schema.validate(data, {
