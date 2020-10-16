@@ -24,7 +24,7 @@ function Landing () {
 				</div>
 
 				{/* Link: SPA (Single Page Application, so carrega aquilo que for necessário) */}
-				<Link to="/app" className="enter-app">
+				<Link title="Visualizar orfanatos" to="/app" className="enter-app">
 					<FiArrowRight size={26} color="rgba(0, 0, 0, 0.6)" />
 				</Link>
 			</div>

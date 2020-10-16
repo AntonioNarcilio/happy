@@ -1,6 +1,8 @@
 import React from 'react'; 
 
 import './styles/global.css';
+// EStilização padrão do leaflet
+import 'leaflet/dist/leaflet.css';
 
 import Routes from './routes';
 
