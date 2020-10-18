@@ -2,9 +2,9 @@ import Image from '../models/Image';
 
 
 // Usando da aplicação web
-// const urlBase = 'localhost'
+const urlBase = 'localhost'
 // Usado na aplicação mobile
-const urlBase = '192.168.100.5'
+// const urlBase = '192.168.100.5'
 
 export default {
 
