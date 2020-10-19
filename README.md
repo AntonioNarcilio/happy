@@ -119,7 +119,7 @@ yarn start
 
 #### 🖥 Front-end
 
-> **⚠ Antes de prosseguir com o passo a passo deve-se configurar a variável ambiente `.env`**.<br> Dentro do diretório/pasta `web/` existe um arquivo chamado `[ATENCAO_ALTERAR.env](https://github.com/AntonioNarcilio/happy/blob/main/web/ATEN%C3%87%C3%83O_ALTERAR.env)` dentro desse arquivo existe uma variável que recebe uma api referente ao mapa utilizado no projeto web, você pode pegar essa api de forma gratuita [aqui](https://www.mapbox.com/maps/); depois de ter obtido essa api, basta adicionar no arquivo `.env` (*Altere o nome do arquivo ATENCAO_ALTERAR.env → para apenas → .env*) e pronto, siga para o próximo passo 👇.
+> **⚠ Antes de prosseguir com o passo a passo deve-se configurar a variável ambiente `.env`**.<br> Dentro do diretório/pasta `web/` existe um arquivo chamado [ATENCAO_ALTERAR.env](https://github.com/AntonioNarcilio/happy/blob/main/web/ATEN%C3%87%C3%83O_ALTERAR.env) dentro desse arquivo existe uma variável que recebe uma api referente ao mapa utilizado no projeto web, (*você pode pegar essa api de forma gratuita [aqui](https://www.mapbox.com/maps/)*) depois de ter obtido essa api, basta adicionar no arquivo `.env` (*Altere o nome do arquivo ATENCAO_ALTERAR.env → para apenas → .env*) e pronto, siga para o próximo passo 👇.
 
 > Dentro do diretório/pasta `web` execute o comando abaixo no terminal para baixar as dependências do servidor front-end.
 
