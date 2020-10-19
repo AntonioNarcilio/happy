@@ -25,14 +25,17 @@
  <img alt="expo" title="expo" src="https://img.shields.io/static/v1?label=expo&message=mobile%20dev%20tool&color=0193AD&labelColor=282a36&style=flat&logo=Expo&logoColor=white" alt="expo"/>
 </a>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/AntonioNarcilio/Happy?color=0193AD&labelColor=282a36&logo=GitHub&logoColor=white)
+
+<img alt="GitHub repo size" title="GitHub repo size" src="https://img.shields.io/github/repo-size/AntonioNarcilio/Happy?color=0193AD&labelColor=282a36&logo=GitHub&logoColor=white" />
+
 <a href="https://github.com/AntonioNarcilio/happy/blob/master/LICENSE">
  <img src="https://img.shields.io/github/license/AntonioNarcilio/Happy?label=license&color=0193AD&labelColor=282a36" alt="license"/>
 </a>
-![GitHub last commit](https://img.shields.io/github/last-commit/AntonioNarcilio/Happy?&color=0193AD&labelColor=282a36)
 
-![GitHub language count](https://img.shields.io/github/languages/count/AntonioNarcilio/Happy?&color=0193AD&labelColor=282a36)
-![GitHub top language](https://img.shields.io/github/languages/top/AntonioNarcilio/Happy?&color=0193AD&labelColor=282a36)
+<img alt="GitHub last commit" title="GitHub last commit" src="https://img.shields.io/github/last-commit/AntonioNarcilio/Happy?&color=0193AD&labelColor=282a36" />
+<img alt="GitHub language coun" title="GitHub language coun" src="https://img.shields.io/github/languages/count/AntonioNarcilio/Happy?&color=0193AD&labelColor=282a36" />
+<img alt="GitHub top language" title="GitHub top language" src="https://img.shields.io/github/languages/top/AntonioNarcilio/Happy?&color=0193AD&labelColor=282a36" />
+
 
 </p>
 
