@@ -44,7 +44,7 @@
 
 ### O que é a plataforma ❓
 
-O Happy 😄 é uma aplicação criada com o intuito de mostrar as casas de acolhimento institucional na região, fazendo assim com que as pessoas se conectem com elas com mais facilidade, levando então a felicidade no dia a dia de muito pequeninos 🧒.
+O **Happy** 😄 é uma aplicação criada com o intuito de mostrar as casas de acolhimento institucional na região, fazendo assim com que as pessoas se conectem com elas com mais facilidade, levando então a felicidade no dia a dia de muito pequeninos 🧒.
 
 <img src="./.github/Happy_Devices.png"/>
 
@@ -152,7 +152,7 @@ yarn start
 
 ---
 
-### Licença
+### 📜 Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/AntonioNarcilio/happy/blob/main/LICENSE) para mais detalhes.
 
 <br/>
