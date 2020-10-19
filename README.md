@@ -1,7 +1,6 @@
 
-<h1 align="center">
+<p align="center">
   <img src="./.github/Happy_Logo.png" width="20%"/>
-</h1>
 
 <br/>
                                               
@@ -26,15 +25,16 @@
  <img alt="expo" title="expo" src="https://img.shields.io/static/v1?label=expo&message=mobile%20dev%20tool&color=0193AD&labelColor=282a36&style=flat&logo=Expo&logoColor=white" alt="expo"/>
 </a>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/AntonioNarcilio/happy?color=0193AD&labelColor=282a36&logo=GitHub&logoColor=white)
+![GitHub repo size](https://img.shields.io/github/repo-size/AntonioNarcilio/Happy?color=0193AD&labelColor=282a36&logo=GitHub&logoColor=white)
 <a href="https://github.com/AntonioNarcilio/happy/blob/master/LICENSE">
- <img src="https://img.shields.io/github/license/AntonioNarcilio/happy?label=license&color=0193AD&labelColor=282a36" alt="license"/>
+ <img src="https://img.shields.io/github/license/AntonioNarcilio/Happy?label=license&color=0193AD&labelColor=282a36" alt="license"/>
 </a>
-![GitHub last commit](https://img.shields.io/github/last-commit/AntonioNarcilio/happy?&color=0193AD&labelColor=282a36)
+![GitHub last commit](https://img.shields.io/github/last-commit/AntonioNarcilio/Happy?&color=0193AD&labelColor=282a36)
 
-![GitHub language count](https://img.shields.io/github/languages/count/AntonioNarcilio/happy?&color=0193AD&labelColor=282a36)
-![GitHub top language](https://img.shields.io/github/languages/top/AntonioNarcilio/happy?&color=0193AD&labelColor=282a36)
+![GitHub language count](https://img.shields.io/github/languages/count/AntonioNarcilio/Happy?&color=0193AD&labelColor=282a36)
+![GitHub top language](https://img.shields.io/github/languages/top/AntonioNarcilio/Happy?&color=0193AD&labelColor=282a36)
 
+</p>
 
 ---
 
@@ -151,7 +151,6 @@ yarn start
 ### Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
----
 
 ### 🙏 Agradecimento
 
