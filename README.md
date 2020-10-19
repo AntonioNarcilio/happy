@@ -1,29 +1,34 @@
 
 <p align="center">
-  <img src="./.github/Happy_Logo.png" width="20%"/>
+  <img alt="Logo" src="./.github/Happy_Logo.png" width="20%"/>
   
 <br/>  
 <br/>
                                               
 <a href="https://nodejs.org/en/">
- <img alt="node js" title="node js" src="https://img.shields.io/static/v1?label=node%20js&message=javascript%20runtime%20environment&color=0193AD&labelColor=282a36&style=flat&logo=node.js&logoColor=white" alt="node js"/>
+ <img alt="Node js" title="node js" src="https://img.shields.io/static/v1?label=node%20js&message=javascript%20runtime%20environment&color=0193AD&labelColor=282a36&style=flat&logo=node.js&logoColor=white" />
 </a>
 
 <a href="https://classic.yarnpkg.com/en/docs/install#debian-stable">
- <img alt="yarn" title="yarn" src="https://img.shields.io/static/v1?label=yarn&message=package%20manager&color=0193AD&labelColor=282a36&style=flat&logo=Yarn&logoColor=white" alt="yarn"/>
+ <img alt="Yarn" title="yarn" src="https://img.shields.io/static/v1?label=yarn&message=package%20manager&color=0193AD&labelColor=282a36&style=flat&logo=Yarn&logoColor=white" />
 </a>
 
+<a href="https://www.mapbox.com">
+ <img alt="Mapbox" title="Mapbox" src="https://img.shields.io/static/v1?label=mapbox&message=map%20and%20location &color=0193AD&labelColor=282a36&style=flat&logo=Mapbox&logoColor=white"/>
+</a>
+
+
 <a href="https://pt-br.reactjs.org">
- <img alt="react js" title="react js" src="https://img.shields.io/static/v1?label=react%20js&message=library&color=0193AD&labelColor=282a36&style=flat&logo=REACT&logoColor=white" alt="react js"/>
+ <img alt="React js" title="React js" src="https://img.shields.io/static/v1?label=react%20js&message=library&color=0193AD&labelColor=282a36&style=flat&logo=REACT&logoColor=white" />
 </a>
 
 <a href="https://reactnative.dev">
- <img alt="react js" title="react js" src="https://img.shields.io/static/v1?label=react%20native&message=library&color=0193AD&labelColor=282a36&style=flat&logo=REACT&logoColor=white" alt="react native"/>
+ <img alt="React native" title="React native" src="https://img.shields.io/static/v1?label=react%20native&message=library&color=0193AD&labelColor=282a36&style=flat&logo=REACT&logoColor=white" />
 </a>
 
 
 <a href="https://docs.expo.io/get-started/installation/">
- <img alt="expo" title="expo" src="https://img.shields.io/static/v1?label=expo&message=mobile%20dev%20tool&color=0193AD&labelColor=282a36&style=flat&logo=Expo&logoColor=white" alt="expo"/>
+ <img alt="Expo" title="Expo" src="https://img.shields.io/static/v1?label=expo&message=mobile%20dev%20tool&color=0193AD&labelColor=282a36&style=flat&logo=Expo&logoColor=white" />
 </a>
 
 
@@ -34,7 +39,9 @@
 </a>
 
 <img alt="GitHub last commit" title="GitHub last commit" src="https://img.shields.io/github/last-commit/AntonioNarcilio/Happy?&color=0193AD&labelColor=282a36" />
+
 <img alt="GitHub language coun" title="GitHub language coun" src="https://img.shields.io/github/languages/count/AntonioNarcilio/Happy?&color=0193AD&labelColor=282a36" />
+
 <img alt="GitHub top language" title="GitHub top language" src="https://img.shields.io/github/languages/top/AntonioNarcilio/Happy?&color=0193AD&labelColor=282a36" />
 
 
@@ -46,7 +53,7 @@
 
 O **Happy** 😄 é uma aplicação criada com o intuito de mostrar as casas de acolhimento institucional na região, fazendo assim com que as pessoas se conectem com elas com mais facilidade, levando então a felicidade no dia a dia de muito pequeninos 🧒.
 
-<img src="./.github/Happy_Devices.png"/>
+<img alt="Happy" src="./.github/Happy_Devices.png"/>
 
 
 <br/>
@@ -111,6 +118,8 @@ yarn start
 <br>
 
 #### 🖥 Front-end
+
+> **⚠ Antes de prosseguir com o passo a passo deve-se configurar a variável ambiente `.env`**.<br> Dentro do diretório/pasta `web/` existe um arquivo chamado `[ATENCAO_ALTERAR.env](https://github.com/AntonioNarcilio/happy/blob/main/web/ATEN%C3%87%C3%83O_ALTERAR.env)` dentro desse arquivo existe uma variável que recebe uma api referente ao mapa utilizado no projeto web, você pode pegar essa api de forma gratuita [aqui](https://www.mapbox.com/maps/); depois de ter obtido essa api, basta adicionar no arquivo `.env` (*Altere o nome do arquivo ATENCAO_ALTERAR.env → para apenas → .env*) e pronto, siga para o próximo passo 👇.
 
 > Dentro do diretório/pasta `web` execute o comando abaixo no terminal para baixar as dependências do servidor front-end.
 
