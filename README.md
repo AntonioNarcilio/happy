@@ -52,7 +52,7 @@ O Happy 😄 é uma aplicação criada com o intuito de mostrar as casas de acol
 <br/>
 
 
-### 🚀 **Atualmente na plataforma do Happy você consegui:**
+### 🚀 **Atualmente na plataforma do Happy você consegue:**
 - [x] Visualizar o mapa das casas de acolhimento institucional na região
 - [x] Cadastrar uma casa de acolhimento institucional 
 - [x] Visualizar detalhes sobre uma casa de acolhimento institucional
@@ -100,7 +100,7 @@ yarn start
 
 &ensp;&ensp;[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Happy&uri=https%3A%2F%2Fgist.githubusercontent.com%2FAntonioNarcilio%2Fa586fbcaaf5a87d5d6895e33829549e1%2Fraw%2F8ae53fd80fc97e5c825704ac49a4e9be7bf6ad86%2Fhappy-insomnia)
 
-> Depois em `import Happy` que irá lhe direcionar para uma pagina contendo um arquivo no formato de JSON, copie a url e depois no insomnia va em:
+> Depois em `import Happy` que irá lhe direcionar para uma página contendo um arquivo no formato de JSON, copie a url e depois no insomnia va em:
 
   &ensp;&ensp;<kbd>Application</kbd> <kbd>></kbd> <kbd>Preferences</kbd> <kbd>></kbd> <kbd>Data</kbd> <kbd>></kbd> <kbd>Import Data</kbd> <kbd>></kbd> <kbd>From URL</kbd>
   
@@ -124,7 +124,7 @@ yarn install
 yarn start
 ~~~
 
-> Pronto 🎊 automaticamente abrirá em seu navegador padrão a pagina web
+> Pronto 🎊 automaticamente abrirá em seu navegador padrão a página web
 
 ---
 
@@ -146,7 +146,7 @@ yarn start
 
 > Caso não tenha o **Expo CLI** instalado na máquina o procedimento de instalação se encontra [aqui](https://docs.expo.io/get-started/installation/)
 
-> Espere abrir uma pagina relacionado ao expo no seu navegador padrão, caso a opção de conexão `LAN` não esteja selecionado, selecione-a e depois leia o `qr code` utilizando o app do expo no celular e pronto é só aguarda a aplicação carregar ☺.
+> Espere abrir uma pagina relacionado ao expo no seu navegador padrão, caso a opção de conexão `LAN` não esteja selecionado, selecione-a e depois leia o `qr code` utilizando o app do expo no celular e pronto é só aguardar a aplicação carregar ☺.
 
 <br>
 
@@ -162,5 +162,3 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.c
 <a href="https://rocketseat.com.br">
  <img src="https://img.shields.io/static/v1?label=rocketseat&message=ir&color=8257e5&labelColor=282a36&style=flat&logo=Apache%20RocketMQ&logoColor=white" alt="rocketseat"/>
 </a>
-
-
