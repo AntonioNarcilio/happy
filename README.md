@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://www.mapbox.com">
- <img alt="Mapbox" title="Mapbox" src="https://img.shields.io/static/v1?label=mapbox&message=map%20and%20location &color=0193AD&labelColor=282a36&style=flat&logo=Mapbox&logoColor=white"/>
+ <img alt="Mapbox" title="Mapbox" src="https://img.shields.io/static/v1?label=mapbox&message=map%20and%20location&color=0193AD&labelColor=282a36&style=flat&logo=Mapbox&logoColor=white"/>
 </a>
 
 
