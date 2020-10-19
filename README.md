@@ -153,7 +153,7 @@ yarn start
 ---
 
 ### Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/AntonioNarcilio/happy/blob/main/LICENSE) para mais detalhes.
 
 <br/>
 
